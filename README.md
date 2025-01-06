@@ -42,23 +42,3 @@ The results indicate the effectiveness of fine-tuning pre-trained models for dia
    cd Diabetic-Retinopathy-Models
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run training:
-   ```bash
-   python train.py
-   ```
-
-4. Evaluate the model:
-   ```bash
-   python evaluate.py
-   ```
-
-5. Predict on new images:
-   ```bash
-   python predict.py --image_path path_to_image.jpg
-   ```
-
